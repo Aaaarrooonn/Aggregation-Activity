@@ -1,2 +1,0 @@
-# Aggregation-Activity
-OBJECTP Activity
